@@ -1,7 +1,7 @@
 # Primeira-API
 
-Instalar modulos
+# Instalar modulos
 npm init
 
-Iniciar servidor
+# Iniciar servidor
 npm start
